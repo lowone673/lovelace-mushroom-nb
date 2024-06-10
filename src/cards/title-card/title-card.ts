@@ -300,7 +300,7 @@ export class TitleCard extends MushroomBaseElement implements LovelaceCard {
                     transform: translateX(-4px);
                 }
                 .title {
-                    color: var(--title-color);
+                    color: red;
                     font-size: var(--title-font-size);
                     font-weight: var(--title-font-weight);
                     line-height: var(--title-line-height);
